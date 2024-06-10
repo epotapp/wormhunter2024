@@ -94,9 +94,6 @@ A classic Snake game implemented in Pascal for the terminal. Supports Linux, mac
 - Each time the snake eats food, it grows in length.
 - Avoid colliding with the walls and the snake's own body to keep playing.
 
-## Customization
-- **Skins**: Change the appearance of the snake through the "Choose skin" option in the main menu.
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
