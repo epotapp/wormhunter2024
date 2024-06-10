@@ -274,13 +274,3 @@ begin
     clrscr;
     write(#27'[0m');
 end.
-
-
-{ Bugs:
-1. Make food not to appear just in the middle of snake body 
-2. Prevent to going backward after quickclicking to the any side (and dying) }
-
-{ Possible features:
-1. Add information about current screen size on the bottom
-2. Add changeable skins in menu
-3. And add my name on the bottom! }
